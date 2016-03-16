@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         /*Que buen programador soy, no necesito IDE LOL*/
         // put your code here
+        // TESTE HERE
         ?>
     </body>
 </html>
